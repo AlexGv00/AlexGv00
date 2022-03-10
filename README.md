@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Alejandro Garcia Villa (Alexgarciav).
-- 👀 I’m interested in Front-End Development.
-- 🌱 I’m currently learning Front-end development, frameworks 
-- 📫 How to reach me hola@alejandrogarciav.com
+- 👋 Hola, mi nombre es Alejandro Garcia Villa.
+- 👀 Estoy interesado en el desarrollo Front-End.
+- 🌱 Actualmente estoy estudiando desarrollo Front-end y frameworks como Angular o React. 
+- 📫 Te invito a contactar conmigo a través de hola@alejandrogarciav.com
 
